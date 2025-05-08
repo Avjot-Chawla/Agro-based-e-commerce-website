@@ -141,7 +141,7 @@ We welcome contributions that help improve the platform or introduce new feature
 * **Rahul Dev Manna** – RA2211003010570
 * **Shreyan Dutta** – RA2211003010583
 * **Avjot Singh Chawla** – RA2211003010584
-* **Project Supervisor:** Dr. Thamizhamuthu R
+* **Project Supervisor:** Dr. T. K. SIVAKUMAR
   *Department of Computing Technologies, SRM Institute of Science and Technology*
 
 ---
